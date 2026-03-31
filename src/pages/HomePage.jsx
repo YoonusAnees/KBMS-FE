@@ -92,7 +92,7 @@ const HomePage = () => {
               Live
             </span>
 
-            <Link
+            {/* <Link
               to="/login"
               className="font-semibold text-sm text-center"
               style={{
@@ -104,7 +104,7 @@ const HomePage = () => {
               }}
             >
               Admin Login
-            </Link>
+            </Link> */}
           </div>
         </div>
 
