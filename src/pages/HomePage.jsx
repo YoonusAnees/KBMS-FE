@@ -92,7 +92,6 @@ const HomePage = () => {
               Live
             </span>
 
-            {/* Uncomment when needed:
             <Link
               to="/login"
               className="font-semibold text-sm text-center"
@@ -106,7 +105,6 @@ const HomePage = () => {
             >
               Admin Login
             </Link>
-            */}
           </div>
         </div>
 
