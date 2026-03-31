@@ -350,7 +350,7 @@ const LoginPage = () => {
                 (e.currentTarget.style.color = "rgba(255,200,180,0.45)")
               }
             >
-              {isAdminLogin ? "Hide Admin Mode" : "Admin Login"}
+              {/* {isAdminLogin ? "Hide Admin Mode" : "Admin Login"} */}
             </button>
           )}
 
